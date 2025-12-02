@@ -10,7 +10,6 @@ small teams to operate at enterprise scale.
 OTM is built on **Kernel 1.1**, our internal engineering standard
 enforcing:
 
--   Zero-placeholder code\
 -   Mandatory preflights\
 -   Snapshot/rollback systems\
 -   Dry-run safety\
