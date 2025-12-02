@@ -1,193 +1,151 @@
-🟩 Off-Track-Media Studios
+# 🟩 Off-Track-Media Studios
 
-Building Empires, Not Just Brands.
+**Building Empires, Not Just Brands.**
 
-Off-Track-Media (OTM) is a digital-first production studio headquartered in Western Australia.
-We create original IP, cinematic content, high-performance tooling, and automated operating frameworks that allow small teams to operate at enterprise scale.
+Off-Track-Media (OTM) is a digital-first production studio headquartered
+in Western Australia. We create original IP, cinematic content,
+high-performance tooling, and automated operating frameworks that allow
+small teams to operate at enterprise scale.
 
-OTM is built on Kernel 1.1 — our internal engineering standard that enforces:
+OTM is built on **Kernel 1.1**, our internal engineering standard
+enforcing:
 
-Zero-placeholder code
+-   Zero-placeholder code\
+-   Mandatory preflights\
+-   Snapshot/rollback systems\
+-   Dry-run safety\
+-   Full auditability\
+-   Infrastructure-level determinism
 
-Mandatory preflights
+**Kernel 1.1 = guaranteed technical and operational excellence.**
 
-Snapshot/rollback systems
+------------------------------------------------------------------------
 
-Dry-run safety
+## 🎬 Studio Divisions
 
-Full auditability
+  -----------------------------------------------------------------------
+  Division                      Description
+  ----------------------------- -----------------------------------------
+  🎨 Animation & Film           2D/3D shorts, cinematic sequences,
+                                story-driven mini-series
 
-Infrastructure-level determinism
+  🎮 Gaming & Creator Content   Dual-perspective content, seasonal
+                                formats
 
-Kernel 1.1 is our public guarantee: everything we release meets a minimum standard of technical and operational excellence.
+  🧩 Software, Tooling &        OS automation, secure labs, scripting
+  Engineering                   frameworks
 
-🎬 What We Make
-🖥️ Studio Divisions
-Division	Description
-🎨 Animation & Film	2D/3D shorts, cinematic sequences, story-driven mini-series
-🎮 Gaming & Creator Content	Dual-perspective content, seasonal formats, full asset-driven productions
-🧩 Software, Tooling & Engineering	OS automation, secure labs, scripting frameworks, creative infrastructure
-🧪 R&D, ML & Experimental Systems	AI-assisted storytelling, distributed systems, OPSEC pipelines
-🛒 Merch & Branding	Apparel, collectible IP assets, stylised digital bundles
-🗂️ Portfolio (Active & In Production)
-🎥 Cinematic & Animation
+  🧪 R&D, ML & Experimental     AI-assisted storytelling, distributed
+  Systems                       systems
 
-DEVOTION — psychological thriller arc (multi-platform format)
+  🛒 Merch & Branding           Apparel, collectible IP assets, stylised
+                                bundles
+  -----------------------------------------------------------------------
 
-Backrooms / Liminal Universe — atmospheric horror & weirdcore worldbuilding
+------------------------------------------------------------------------
 
-Shorts & Microfilms — stylised, high-frequency release format
+## 🗂️ Portfolio
 
-Hybrid AI-assisted Animatics — rapid pre-viz designed for creator pipelines
+### 🎥 Cinematic & Animation
 
-🎮 Gaming & Creator Content
+-   DEVOTION --- psychological thriller arc\
+-   Backrooms / Liminal Universe --- atmospheric horror worldbuilding\
+-   Shorts & microfilms\
+-   Hybrid AI animatics & pre-viz
 
-Dual-POV gaming series
+### 🎮 Gaming & Creator Content
 
-Seasonal Twitch/YouTube hybrid content
+-   Dual-POV gaming series\
+-   Seasonal Twitch/YouTube hybrid formats\
+-   Narrative-driven gameplay edits\
+-   Session logs → cinematic retellings
 
-Narrative-driven gameplay edits
+### 🧰 Software & Engineering
 
-Raw session logs piped into cinematic retellings
+-   OffTrack Suite UI\
+-   Linux bootstrap kits\
+-   Secure VM deployers\
+-   Mass-install & recovery frameworks\
+-   CigSh hacker shell\
+-   Creator workstation tools\
+-   Snapshot & restore engines\
+-   Distributed logging & audit pipelines
 
-🧰 Software & Engineering
+*All tools meet Kernel 1.1 minimum standards.*
 
-OTM builds hardened, production-grade tools, including:
+------------------------------------------------------------------------
 
-OffTrack Suite UI — unified orchestration interface for all OTM scripts
+## 🔧 Why Kernel 1.1 Matters
 
-Arch/Mint/Fedora/Debian bootstrap kits
+### 🛡️ Safety First
 
-Secure VM Deployers (sandbox, malware lab, research)
+-   OS, package manager, network, and permission validation
 
-Mass-installation & recovery frameworks
+### 🔄 Snapshot & Rollback
 
-CigSh — a nicotine-themed hacker shell with snapshots, stash packs, and rule-based safety
+-   Pre-execution snapshots\
+-   Automatic rollback\
+-   Helper restore scripts
 
-CreativeTools-Fedora43 — workstation expansion kit for creators
+### 🧪 Dry-Run Default
 
-Backup, snapshot, and restore engines
+-   Full execution plan preview\
+-   Zero silent changes
 
-Distributed logging models & audit-friendly pipeline code
+### 📝 Audit-Grade Output
 
-All software follows Kernel 1.1 minimum standards and ships with full, enterprise-style READMEs.
+-   Clean logs\
+-   Transparent ops
 
-🔧 Why Kernel 1.1 Matters
+### 🚫 No Placeholders
 
-Kernel 1.1 is our internal execution framework, and every script, pipeline, and automation we produce is bound to it.
+-   Complete implementations only
 
-It guarantees:
+------------------------------------------------------------------------
 
-🛡 Safety First
+## 📚 Governance & Compliance
 
-Mandatory OS checks
+-   Apache 2.0 licensing\
+-   NOTICE & attribution\
+-   Governance & conduct files\
+-   Security policies\
+-   Audit-ready workflows\
+-   Version locking\
+-   Kernel 1.1 execution guarantees
 
-Package manager validation
+------------------------------------------------------------------------
 
-Network checks
+## 🛰️ Mission
 
-Permission validation
+To push the boundaries of what small creative teams can achieve through
+automation, discipline, and fearless engineering.
 
-🔄 Rollback & Snapshots
+------------------------------------------------------------------------
 
-Full snapshot of key config directories
+## 🤝 Work With Us
 
-Instant rollback on failure
+We collaborate with: Developers, animators, writers, system engineers,
+toolsmiths, editors, and more.
 
-Auto-generated rollback helper scripts
+📍 Western Australia --- operating globally.\
+📩 Contact via GitHub or linked repos.
 
-🧪 Dry-Run as Default
+------------------------------------------------------------------------
 
-Every destructive action previewed
+## 🗂 Upcoming Public Repositories
 
-Nothing modifies the system without explicit confirmation
+-   OffTrack Suite UI\
+-   CigSh core\
+-   Arch cheat installer\
+-   CreativeTools-Fedora43\
+-   Secure VM deployers\
+-   Narrative IP (DEVOTION, Backrooms universe)\
+-   Asset packs & templates\
+-   Kernel 1.1 public spec
 
-📝 Audit-Quality Output
+------------------------------------------------------------------------
 
-Clean logs
+## ⚜️ Off-Track-Media Studios
 
-Transparent operations
-
-No silent side effects
-
-🚫 Zero Placeholders
-
-No TODOs.
-No “fill this out later.”
-No half implementations.
-If something can’t be safely done, we say it.
-
-📚 Our Governance & Compliance
-
-Off-Track-Media operates under a compliance-first model, using:
-
-Apache 2.0 Licensing
-
-Full NOTICE files
-
-Code of Conduct & Governance docs
-
-Operational security policies
-
-Audit-ready workflow documentation
-
-Project-level version locking
-
-Kernel 1.1 execution guarantees
-
-We don’t “patch things later.”
-Everything ships complete.
-
-🛰️ Mission
-
-To redefine what independent creators are capable of by merging artistic discipline with hardened engineering.
-
-OTM builds systems that scale content, stories, and production beyond what a typical two-person studio should be able to accomplish.
-
-We create with ambition, automation, and zero fear of complexity.
-
-🤝 Work With Us
-
-OTM collaborates with:
-
-Developers
-
-Animators
-
-Writers
-
-System engineers
-
-Compliance-minded psychopaths (the good kind)
-
-Toolsmiths
-
-Motion designers
-
-Creative editors
-
-📍 Based in Western Australia — operating globally.
-📩 Contact through GitHub or linked project repositories.
-
-🗂 Upcoming Public Repositories
-
-OffTrack Suite UI
-
-CigSh core
-
-Arch cheat installer
-
-CreativeTools-Fedora43
-
-Secure VM deployers
-
-Narrative IP repos (DEVOTION, Backrooms universe)
-
-Asset packs & animation templates
-
-Full Kernel 1.1 spec (public build)
-
-⚜️ Off-Track-Media Studios
-
-ABN: 84 290 819 896
+ABN: 84 290 819 896\
 © Off-Track-Media. All rights reserved.
