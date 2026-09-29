@@ -1,150 +1,43 @@
-# 🟩 Off-Track-Media Studios
+# Off-Track-Media Studios
 
-**Building Empires, Not Just Brands.**
+An independent studio in Western Australia. We make original music, games and stories, and we
+build the tools we make them with.
 
-Off-Track-Media (OTM) is a digital-first production studio headquartered
-in Western Australia. We create original IP, cinematic content,
-high-performance tooling, and automated operating frameworks that allow
-small teams to operate at enterprise scale.
+## How we work
 
-OTM is built on **Kernel 1.1**, our internal engineering standard
-enforcing:
+One system runs everything we build:
 
--   Mandatory preflights\
--   Snapshot/rollback systems\
--   Dry-run safety\
--   Full auditability\
--   Infrastructure-level determinism
+- **CORTEX** is the governance runtime. It holds the rules every project follows, the registry of
+  every governed repository, and the map of our research library.
+- **HIVEMIND** is the Claude Code runtime our developers work in: specialist agents organized in
+  teams, staged workflows, and memory that carries across sessions.
+- **The Codex** is our research library: seventeen divisions, from law and cybersecurity to media
+  engineering. Agents read it before they write.
+- **`_AGENT`** is the governance layer planted in each project: permanent document IDs, a staged
+  workflow, and checks that run on every commit.
 
-**Kernel 1.1 = guaranteed technical and operational excellence.**
+## What we make
 
-------------------------------------------------------------------------
+- **Music.** An original catalogue across several artist universes, with our own tooling for
+  delivery checks and music video production.
+- **Games.** Original RPG and action-adventure projects, a deterministic tabletop engine, and mods.
+- **Tools.** Automation that can't misfire, media downloaders and players, document and metadata
+  utilities.
+- **Research.** The Codex, and the briefings and training material we build from it.
 
-## 🎬 Studio Divisions
+## Open source
 
-  -----------------------------------------------------------------------
-  Division                      Description
-  ----------------------------- -----------------------------------------
-  🎨 Animation & Film           2D/3D shorts, cinematic sequences,
-                                story-driven mini-series
+| Project | What it does |
+|---|---|
+| [CigScript](https://github.com/otmof-ops/CigScript) | Automation scripts that can't hurt you by accident. Nothing real happens unless you burn. |
+| [briefkit](https://github.com/otmof-ops/briefkit) | Professional PDF briefings from markdown, in one command. |
+| [unified-windows-suite](https://github.com/Nerds489/unified-windows-suite) | Tweaks, debloat, app installs, drivers and performance tuning for Windows 10 and 11. |
+| [mosaic-wallpaper](https://github.com/otmof-ops/mosaic-wallpaper) | Per-monitor mosaic wallpapers, matched to each screen's resolution. |
+| [hw-temp-monitor](https://github.com/otmof-ops/hw-temp-monitor) | A live terminal dashboard for CPU and GPU temperatures. |
 
-  🎮 Gaming & Creator Content   Dual-perspective content, seasonal
-                                formats
+Projects are moving into this organization. Links update as each one arrives.
 
-  🧩 Software, Tooling &        OS automation, secure labs, scripting
-  Engineering                   frameworks
+---
 
-  🧪 R&D, ML & Experimental     AI-assisted storytelling, distributed
-  Systems                       systems
-
-  🛒 Merch & Branding           Apparel, collectible IP assets, stylised
-                                bundles
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-## 🗂️ Portfolio
-
-### 🎥 Cinematic & Animation
-
--   DEVOTION --- psychological thriller arc\
--   Backrooms / Liminal Universe --- atmospheric horror worldbuilding\
--   Shorts & microfilms\
--   Hybrid AI animatics & pre-viz
-
-### 🎮 Gaming & Creator Content
-
--   Dual-POV gaming series\
--   Seasonal Twitch/YouTube hybrid formats\
--   Narrative-driven gameplay edits\
--   Session logs → cinematic retellings
-
-### 🧰 Software & Engineering
-
--   OffTrack Suite UI\
--   Linux bootstrap kits\
--   Secure VM deployers\
--   Mass-install & recovery frameworks\
--   CigSh hacker shell\
--   Creator workstation tools\
--   Snapshot & restore engines\
--   Distributed logging & audit pipelines
-
-*All tools meet Kernel 1.1 minimum standards.*
-
-------------------------------------------------------------------------
-
-## 🔧 Why Kernel 1.1 Matters
-
-### 🛡️ Safety First
-
--   OS, package manager, network, and permission validation
-
-### 🔄 Snapshot & Rollback
-
--   Pre-execution snapshots\
--   Automatic rollback\
--   Helper restore scripts
-
-### 🧪 Dry-Run Default
-
--   Full execution plan preview\
--   Zero silent changes
-
-### 📝 Audit-Grade Output
-
--   Clean logs\
--   Transparent ops
-
-### 🚫 No Placeholders
-
--   Complete implementations only
-
-------------------------------------------------------------------------
-
-## 📚 Governance & Compliance
-
--   Apache 2.0 licensing\
--   NOTICE & attribution\
--   Governance & conduct files\
--   Security policies\
--   Audit-ready workflows\
--   Version locking\
--   Kernel 1.1 execution guarantees
-
-------------------------------------------------------------------------
-
-## 🛰️ Mission
-
-To push the boundaries of what small creative teams can achieve through
-automation, discipline, and fearless engineering.
-
-------------------------------------------------------------------------
-
-## 🤝 Work With Us
-
-We collaborate with: Developers, animators, writers, system engineers,
-toolsmiths, editors, and more.
-
-📍 Western Australia --- operating globally.\
-📩 Contact via GitHub or linked repos.
-
-------------------------------------------------------------------------
-
-## 🗂 Upcoming Public Repositories
-
--   OffTrack Suite UI\
--   CigSh core\
--   Arch cheat installer\
--   CreativeTools-Fedora43\
--   Secure VM deployers\
--   Narrative IP (DEVOTION, Backrooms universe)\
--   Asset packs & templates\
--   Kernel 1.1 public spec
-
-------------------------------------------------------------------------
-
-## ⚜️ Off-Track-Media Studios
-
-ABN: 84 290 819 896\
+Off-Track-Media Studios · Western Australia · ABN 84 290 819 896<br>
 © Off-Track-Media. All rights reserved.
